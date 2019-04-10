@@ -1,0 +1,21 @@
+.prod-desc{
+	width: 800px;
+	height: 500px;
+	background-color:#c1a57d;
+	box-shadow: 10px 14px 50px 2px brown;
+	margin-bottom: 20px;
+}
+.pimage {
+  float: left;
+  background-color: white;
+  height: 90%;
+  margin: 20px 20px 20px 10px;
+}
+
+.pdesc {
+  color: black;
+  float: right;
+  margin: 20px 0px 20px 10px;
+  background-color: white;
+  height: 90%;
+}

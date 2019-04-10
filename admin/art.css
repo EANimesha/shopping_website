@@ -1,0 +1,132 @@
+
+.container{
+  width: 95%;
+  margin: 0 auto;
+}
+
+#subheader{
+  width: 100%;
+  height: 30px;
+  background: black;
+  color: #fff;
+  margin-top:-5px;
+}
+#subheader p{
+	float: left;
+	margin-top: 4px;
+}
+#subheader a{
+	float: right;
+	line-height: 30px;
+	color: #fff;
+	text-decoration: none;
+	margin-left: 30px;
+}
+
+#main-header{
+	width: 100%;
+	height: 100px;
+	background: blue;
+	float: left;
+	margin-top: -15px;
+}
+
+
+#logo{
+	width:250px;
+	margin-top: 10px;
+	float: left;
+}
+#ist{
+	color: black;
+	font-size: 45px;
+	font-weight: bold;
+	margin-left: 15px;
+	font-family: cursive;
+}
+#iist{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+
+#user-menu{
+	width: 300px;
+	float: right;
+	margin-top: 20px;
+}
+
+#user-menu li{
+	float: left;
+	width: 140px;
+	text-align: center;
+	list-style: none;
+	font-size: 25px;
+	border-left: 1px solid black;
+
+}
+
+#user-menu li:hover{
+	font-size: 30px;
+	transition: all .5s ease;
+}
+
+#user-menu li a{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+#navigation{
+	width: 100%;
+	height: 35px;
+	background: gray;
+	float: left;
+	box-shadow: 10px 14px 50px 2px black;
+}
+nav{
+	width: 1280px;
+	margin: 0 auto;
+	padding-top: 3px;
+}
+nav a{
+	margin-left: 35px;
+	color: white;
+	text-decoration: none;
+	border-left: 3px solid black;
+	padding-left: 4px;
+}
+nav a:hover{
+	color: black;
+	transition: all .7s ease;
+}
+
+
+
+
+
+/*category*/
+#heading-block{
+	width: 80%;
+	height: auto;
+	float: left;
+	color: black;
+	font-size: 22px;
+	margin: 7px auto auto 120px;
+	background-color:#c1a57d;
+	box-shadow: 10px 14px 50px 2px blue;
+	padding-bottom: 20px;
+}
+
+#heading-block h2{
+	line-height: 35px;
+	border-left: 20px solid black;
+	padding-left: 10px;
+}
+
+body{
+	background-image: 'uploads/p3.jpg';
+}
